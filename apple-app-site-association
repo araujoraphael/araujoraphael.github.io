@@ -1,20 +1,21 @@
 {
-	"applinks":{
-"details":[
-{
-			 "appID":"PWQ2GBL7NF.com.rapha.deeplinktest",
-			 "paths":[
-				"/raphatests/*"
-
-			 ]
-		  },
-		  {
-			 "appID":"KUF4Z33M52.com.theweathernetwork.weathereyeiphone",
-			 "paths":[
-				"/raphanews/*"
-			 ]
-		  }
-	   ],
-	   "apps":[]
-	}
- }
+   "applinks":{
+      "details":[
+         {
+            "appID":"KUF4Z33M52.com.theweathernetwork.weathereyeiphone",
+            "paths":[
+               "/raphanews/*"
+            ]
+         },
+         {
+            "appID":"PWQ2GBL7NF.com.rapha.deeplinktest",
+            "paths":[
+               "/raphatests/*"
+            ]
+         }
+      ],
+      "apps":[
+         
+      ]
+   }
+}
