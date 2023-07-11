@@ -1,6 +1,35 @@
 {
 	"applinks":{
 	   "details":[
+{
+			 "paths":[
+				"/??/weather/*",
+				"/??/last-24-hours/*",
+				"/??/hourly-weather-forecast/*",
+				"/??/36-hour-weather-forecast/*",
+				"/??/14-day-weather-trend/*",
+				"/news/articles/*",
+				"/??/news/articles/*",
+				"/photos/gallery/*",
+				"/??/photos/gallery/*",
+				"/??/meteo/*",
+				"/??/dernieres-24-heures/*",
+				"/??/previsions-meteo-horaires/*",
+				"/??/previsions-meteo-36-heures/*",
+				"/??/tendance-meteo-14-jours/*",
+				"/nouvelles/articles/*",
+				"/??/nouvelles/articles/*",
+				"/photos/galerie/*",
+				"/??/photos/galerie/*",
+				"/??/my-account/upload/*",
+				"/??/mon-compte/televerser/*",
+				"/my-account/upload/*",
+				"/mon-compte/televerser/*",
+				"/raphatests/*"
+
+			 ],
+			 "appID":"PWQ2GBL7NF.com.rapha.deeplinktest"
+		  },
 		  {
 			 "paths":[
 				"/??/weather/*",
@@ -55,35 +84,6 @@
 				"/mon-compte/televerser/*"
 			 ],
 			 "appID":"PWQ2GBL7NF.com.theweathernetwork.weathereyeiphone"
-		  },
-		  {
-			 "paths":[
-				"/??/weather/*",
-				"/??/last-24-hours/*",
-				"/??/hourly-weather-forecast/*",
-				"/??/36-hour-weather-forecast/*",
-				"/??/14-day-weather-trend/*",
-				"/news/articles/*",
-				"/??/news/articles/*",
-				"/photos/gallery/*",
-				"/??/photos/gallery/*",
-				"/??/meteo/*",
-				"/??/dernieres-24-heures/*",
-				"/??/previsions-meteo-horaires/*",
-				"/??/previsions-meteo-36-heures/*",
-				"/??/tendance-meteo-14-jours/*",
-				"/nouvelles/articles/*",
-				"/??/nouvelles/articles/*",
-				"/photos/galerie/*",
-				"/??/photos/galerie/*",
-				"/??/my-account/upload/*",
-				"/??/mon-compte/televerser/*",
-				"/my-account/upload/*",
-				"/mon-compte/televerser/*",
-				"/raphatests/*"
-
-			 ],
-			 "appID":"PWQ2GBL7NF.com.rapha.deeplinktest"
 		  }
 	   ],
 	   "apps":[]
