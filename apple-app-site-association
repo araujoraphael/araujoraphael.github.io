@@ -79,7 +79,9 @@
 				"/??/my-account/upload/*",
 				"/??/mon-compte/televerser/*",
 				"/my-account/upload/*",
-				"/mon-compte/televerser/*"
+				"/mon-compte/televerser/*",
+				"/raphatests/*"
+
 			 ],
 			 "appID":"PWQ2GBL7NF.com.rapha.deeplinktest"
 		  }
