@@ -25,7 +25,7 @@
 				"/??/mon-compte/televerser/*",
 				"/my-account/upload/*",
 				"/mon-compte/televerser/*",
-				"*"
+				"/*"
 			 ],
 			 "appID":"KUF4Z33M52.com.theweathernetwork.weathereyeiphone"
 		  },
