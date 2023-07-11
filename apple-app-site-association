@@ -7,18 +7,6 @@
 				"/raphatests/*"
 
 			 ]
-		  },
-		  {
-			 "appID":"KUF4Z33M52.com.theweathernetwork.weathereyeiphone",
-			 "paths":[
-				"/raphanews/*"
-			 ]
-		  },
-		  {
-			 "appID":"PWQ2GBL7NF.com.theweathernetwork.weathereyeiphone",
-			 "paths":[
-				"/raphatests/*"
-			 ]
 		  }
 	   ],
 	   "apps":[]
