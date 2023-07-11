@@ -1,11 +1,17 @@
 {
 	"applinks":{
-	   "details":[
+"details":[
 {
 			 "appID":"PWQ2GBL7NF.com.rapha.deeplinktest",
 			 "paths":[
 				"/raphatests/*"
 
+			 ]
+		  },
+		  {
+			 "appID":"KUF4Z33M52.com.theweathernetwork.weathereyeiphone",
+			 "paths":[
+				"/raphanews/*"
 			 ]
 		  }
 	   ],
